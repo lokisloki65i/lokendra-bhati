@@ -1,0 +1,11 @@
+{
+  "name": "Remix Myraa AI Assistant",
+  "description": "Real-time, voice-to-voice AI assistant powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "user_name": {
+    "category": "identity",
+    "key": "user_name",
+    "value": "Lokender",
+    "timestamp": "2026-09-13T11:36:44.979Z"
+  },
+  "language_preference": {
+    "category": "preference",
+    "key": "language_preference",
+    "value": "Hindi",
+    "timestamp": "2026-09-13T11:32:56.193Z"
+  },
+  "misc": {
+    "category": "preference",
+    "key": "misc",
+    "value": "Conversational Hindi",
+    "timestamp": "2026-09-13T11:36:44.980Z"
+  },
+  "interest_tech": {
+    "category": "preference",
+    "key": "interest_tech",
+    "value": "User has a strong interest in technology",
+    "timestamp": "2026-09-13T11:37:01.702Z"
+  },
+  "favorite_sport": {
+    "category": "preference",
+    "key": "favorite_sport",
+    "value": "Football",
+    "timestamp": "2026-09-13T11:37:22.191Z"
+  },
+  "favorite_footballer": {
+    "category": "preference",
+    "key": "favorite_footballer",
+    "value": "Sunil Chhetri",
+    "timestamp": "2026-09-13T11:37:32.968Z"
+  },
+  "response_style_preference": {
+    "category": "behavioral",
+    "key": "response_style_preference",
+    "value": "User wants a serious tone during serious matters, but generally casual.",
+    "timestamp": "2026-09-13T11:38:05.020Z"
+  }
+}
